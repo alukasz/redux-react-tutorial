@@ -29,6 +29,7 @@
     "classnames": "^2.2.0",
     "immutable": "^3.7.5",
     "react": "^0.14.1",
+    "react-addons-pure-render-mixin": "^0.14.1",
     "react-dom": "^0.14.1"
   }
 }
